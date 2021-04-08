@@ -1,0 +1,19 @@
+{
+    "name": "youtube_clone",
+    "version": "1.0.0",
+    "description": "youtube with Vanilla and NodeJS",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/seungtae97/youtube_clone.git"
+    },
+    "author": "SeungTaeLee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/seungtae97/youtube_clone/issues"
+    },
+    "homepage": "https://github.com/seungtae97/youtube_clone#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
